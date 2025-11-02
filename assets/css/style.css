@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+
+}
+/* Khoi phuc lai co chu mac dinh */
+body{
+    font-size: 1.6rem;
+}
